@@ -1,0 +1,4 @@
+Source: opencflite
+Version: 0.0.2
+Description: OpenCFLite 635.21 for WebKit WinCairo port
+Build-Depends: icu, pthreads
