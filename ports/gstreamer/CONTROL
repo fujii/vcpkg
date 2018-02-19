@@ -1,0 +1,4 @@
+Source: gstreamer
+Version: 1.12.4
+Description: Development framework for multimedia applications
+Build-Depends: glib
